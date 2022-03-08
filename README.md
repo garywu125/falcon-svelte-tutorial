@@ -1,0 +1,1 @@
+# Collect svelte example in single repository
