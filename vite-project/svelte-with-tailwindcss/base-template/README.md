@@ -1,3 +1,10 @@
+# degit
+```
+$ npx degit garywu125/falcon-svelte-tutorial/vite-project/svelte-with-tailwindcss/base-template <project-directory>
+
+```
+
+
 # Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
