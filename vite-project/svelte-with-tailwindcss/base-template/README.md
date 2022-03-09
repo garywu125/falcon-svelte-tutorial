@@ -1,6 +1,9 @@
 # degit
 ```
-$ npx degit garywu125/falcon-svelte-tutorial/vite-project/svelte-with-tailwindcss/base-template <project-directory>
+npx degit garywu125/falcon-svelte-tutorial/vite-project/svelte-with-tailwindcss/base-template <project-directory>
+cd <project-directory>
+npm install
+npm run dev
 
 ```
 
