@@ -1,0 +1,31 @@
+---
+// Component Imports
+import Daisy from '../components/Daisy.svelte';
+
+// Full Astro Component Syntax:
+// https://docs.astro.build/core-concepts/astro-components/
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<!-- <style>
+			html,
+			body {
+				font-family: system-ui;
+				margin: 0;
+			}
+			body {
+				padding: 2rem;
+			}
+		</style> -->
+	</head>
+	<body>
+		<p>Chi Chi ! Ha Ha !</p>
+		<main>
+			<Daisy client:visible>				
+		</main>
+	</body>
+</html>
