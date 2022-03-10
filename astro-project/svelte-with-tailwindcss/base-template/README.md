@@ -2,6 +2,7 @@
 # degit
 ```
 npx degit garywu125/falcon-svelte-tutorial/astro-project/svelte-with-tailwindcss/base-template <project-directory>
+
 cd <project-directory>
 npm install
 npm run dev
